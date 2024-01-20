@@ -15,3 +15,6 @@ A facial recognition software captures and compares patterns on a person's face,
 1. Face Detection: Locating human faces in real-time is an important step.
 2. Data Transformation: The analogue facial data is converted into a set of data or vectors based on a person's facial traits once it is taken.
 3. Face Match: The system verifies the data above by comparing it to the data in the database.
+
+
+# Emotion Detection
