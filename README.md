@@ -67,6 +67,7 @@ Disclaimer
 This project was developed by Vinit Shah. Any inquiries or contributions should be directed to Vinit Shah at vinshah333@gmail.com
 
 References
+
 [Arduino Uno - Getting Started Guide](https://www.rs-online.com/designspark/what-is-arduino-uno-a-getting-started-guide)
 
 [Face Detection Technology](https://www.techtarget.com/searchenterpriseai/definition/face-detection)
